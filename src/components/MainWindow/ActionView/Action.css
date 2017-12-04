@@ -1,0 +1,15 @@
+div.action-container {
+    display: block;
+    height: 48px;
+    border-bottom: solid 1px lightgrey;
+}
+
+div.action-container div {
+    display: inline;
+}
+
+div.action-title {
+    position: relative;
+    top: 14px;
+}
+

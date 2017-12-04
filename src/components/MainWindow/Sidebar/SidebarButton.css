@@ -1,0 +1,21 @@
+div.sidebar-button-container {
+    background-color: rgb(207, 212, 216);
+    height: 70px;
+    font-size: 9pt;
+    text-align: center;
+    border-bottom: solid 1px rgb(184, 187, 189);
+    cursor: pointer;
+}
+
+
+div.sidebar-button-container-selected {
+    height: 70px;
+    font-size: 9pt;
+    text-align: center;
+    background-color: rgb(237, 242, 246);
+}
+
+div.sidebar-button-text {
+    padding-top: 50px;
+    color: rgb(136, 138, 141);
+}

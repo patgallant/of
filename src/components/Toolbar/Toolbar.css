@@ -1,0 +1,9 @@
+div.toolbar-container {
+    border-bottom: solid 1px rgba(104, 103, 103, 0.637);
+    height: 64px;
+    background: #e6e4e6; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#e6e4e6, #dcdadc, #d5d3d5); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#e6e4e6, #dcdadc, #d5d3d5); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#e6e4e6, #dcdadc, #d5d3d5); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#e6e4e6, #dcdadc, #d5d3d5); /* Standard syntax (must be last) */
+}

@@ -1,0 +1,7 @@
+div.toolbar-button-container {
+    float: left;
+    border: solid 1px lightgray;
+    height: 54px;
+    font-size: 9pt;    
+    color: rgb(84, 80, 77);
+}

@@ -1,0 +1,6 @@
+div.sidebar-container {
+    background-color: rgb(207, 212, 216);
+    width: 70px;
+    min-height: calc(100vh - 64px);
+    float: left;
+}

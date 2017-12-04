@@ -1,0 +1,22 @@
+- AppWindow
+    - Toolbar
+        - 1..N ToolbarButton
+        - SearchBox
+    - MainWindow
+        - Sidebar
+            - 1..N SidebarButton
+        - Navigator
+            - TreeView
+            - NavigatorToolbar
+        - ActionView
+            - ActionList
+                - 1..N ProjectContainer
+                    - ExpandCollapse
+                    - ProjectType
+                    - ProjectTitle
+                    - RemainingCount
+                    - ProjectActions
+                        - 1..N ProjectAction
+                            - CompletionCircle
+                            - ActionTitle
+            - ActionFooter

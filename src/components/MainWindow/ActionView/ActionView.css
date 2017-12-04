@@ -1,0 +1,4 @@
+div.action-view-container {
+    height: calc(100vh - 64px);
+    background-color: rgb(247, 247, 247);
+}

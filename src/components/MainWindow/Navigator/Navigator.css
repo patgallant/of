@@ -1,0 +1,6 @@
+div.navigator-container {
+    background-color: rgb(237, 242, 246);
+    width: 300px;
+    height: calc(100vh - 64px);
+    float: left;
+}
